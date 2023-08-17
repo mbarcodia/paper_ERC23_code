@@ -15,6 +15,9 @@ Two datasets were used in this study. 1) The Community Earth System Model versio
 https://www.cesm.ucar.edu/community-projects/lens2. 2) ECMWF Reanalysis version5 (ERA5) data are available freely at
 https://cds.climate.copernicus.eu/. Additional information on the data used can be found in the Datasheet for Earth Science Datasets (ERC23_datasheet4datascientist.pdf). 
 
+## DOI Badge
+[![DOI](https://zenodo.org/badge/647451612.svg)](https://zenodo.org/badge/latestdoi/647451612)
+
 ## Funding 
 This study was supported by the Regional and Global Model Analysis program area of the U.S. Department of Energy’s (DOE) Office of Biological and Environmental Research (BER) as part of the Program for Climate Model Diagnosis and Intercomparison project. Additional funding information and acknowledgements can be found in the manuscript. 
 
