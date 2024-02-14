@@ -1,5 +1,5 @@
 # ERC23_paper_code
-This repository contains the open source code, Datasheet for Earth Science Datasets, and additional information for the study titled "Assessing Decadal Variability of Subseasonal Forecasts of Opportunity using Explainable AI" currently in review at Environmental Research Climate.
+This repository contains the open source code, Datasheet for Earth Science Datasets, and additional information for the study titled "Assessing Decadal Variability of Subseasonal Forecasts of Opportunity using Explainable AI" published in Environmental Research Climate.
 This study takes a neural network approach to explore decadal variability of subseasonal predictability, particularly during forecasts of opportunity. The results from this study indicate that the neural networks are capable of identifying predictable decadal states of the climate system within CESM2 that are useful for making confident, accurate subseasonal precipitation predictions in the real world. 
 
 ## Team
